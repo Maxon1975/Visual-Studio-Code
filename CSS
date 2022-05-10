@@ -1,0 +1,16 @@
+p {
+    line-height: 24 px; 
+}
+
+ol {
+    list-style-type: disc;
+}
+ figure {
+     float:left ;
+     padding: 15 px;
+     border: 2 px solid red ;
+ }
+ 
+ figcaption {
+     font-size: 13 px;
+ }
